@@ -1,2 +1,2 @@
-# Practical-Machine-Language
-Repo for Practical Machine Language Coursera Course
+# Practical-Machine-Learning
+Repo for Practical Machine Learning Coursera Course
